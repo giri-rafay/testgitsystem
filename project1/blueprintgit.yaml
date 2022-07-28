@@ -20,4 +20,4 @@ spec:
   placement: {}
   sharing:
     enabled: false
-  version: v-bp1ds
+  version: v-bp1d
